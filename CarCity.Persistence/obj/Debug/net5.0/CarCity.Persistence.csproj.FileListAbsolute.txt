@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\CarCity\CarCity.Persistence\bin\Debug\net5.0\CarCity.Persistence.deps.json
+C:\Users\ACER\source\repos\CarCity\CarCity.Persistence\bin\Debug\net5.0\CarCity.Persistence.runtimeconfig.json
+C:\Users\ACER\source\repos\CarCity\CarCity.Persistence\bin\Debug\net5.0\CarCity.Persistence.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\CarCity\CarCity.Persistence\bin\Debug\net5.0\CarCity.Persistence.dll
+C:\Users\ACER\source\repos\CarCity\CarCity.Persistence\bin\Debug\net5.0\ref\CarCity.Persistence.dll
+C:\Users\ACER\source\repos\CarCity\CarCity.Persistence\bin\Debug\net5.0\CarCity.Persistence.pdb
+C:\Users\ACER\source\repos\CarCity\CarCity.Persistence\bin\Debug\net5.0\CarCity.Domain.dll
+C:\Users\ACER\source\repos\CarCity\CarCity.Persistence\bin\Debug\net5.0\CarCity.Domain.pdb
+C:\Users\ACER\source\repos\CarCity\CarCity.Persistence\obj\Debug\net5.0\CarCity.Persistence.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\CarCity\CarCity.Persistence\obj\Debug\net5.0\CarCity.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\CarCity\CarCity.Persistence\obj\Debug\net5.0\CarCity.Persistence.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\CarCity\CarCity.Persistence\obj\Debug\net5.0\CarCity.Persistence.AssemblyInfo.cs
+C:\Users\ACER\source\repos\CarCity\CarCity.Persistence\obj\Debug\net5.0\CarCity.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\CarCity\CarCity.Persistence\obj\Debug\net5.0\CarCity.Persistence.dll
+C:\Users\ACER\source\repos\CarCity\CarCity.Persistence\obj\Debug\net5.0\ref\CarCity.Persistence.dll
+C:\Users\ACER\source\repos\CarCity\CarCity.Persistence\obj\Debug\net5.0\CarCity.Persistence.pdb
+C:\Users\ACER\source\repos\CarCity\CarCity.Persistence\obj\Debug\net5.0\CarCity.Persistence.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\CarCity\CarCity.Application\bin\Debug\net5.0\CarCity.Application.deps.json
+C:\Users\ACER\source\repos\CarCity\CarCity.Application\bin\Debug\net5.0\CarCity.Application.dll
+C:\Users\ACER\source\repos\CarCity\CarCity.Application\bin\Debug\net5.0\ref\CarCity.Application.dll
+C:\Users\ACER\source\repos\CarCity\CarCity.Application\bin\Debug\net5.0\CarCity.Application.pdb
+C:\Users\ACER\source\repos\CarCity\CarCity.Application\bin\Debug\net5.0\CarCity.Domain.dll
+C:\Users\ACER\source\repos\CarCity\CarCity.Application\bin\Debug\net5.0\CarCity.Persistence.dll
+C:\Users\ACER\source\repos\CarCity\CarCity.Application\bin\Debug\net5.0\CarCity.Persistence.pdb
+C:\Users\ACER\source\repos\CarCity\CarCity.Application\bin\Debug\net5.0\CarCity.Domain.pdb
+C:\Users\ACER\source\repos\CarCity\CarCity.Application\obj\Debug\net5.0\CarCity.Application.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\CarCity\CarCity.Application\obj\Debug\net5.0\CarCity.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\CarCity\CarCity.Application\obj\Debug\net5.0\CarCity.Application.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\CarCity\CarCity.Application\obj\Debug\net5.0\CarCity.Application.AssemblyInfo.cs
+C:\Users\ACER\source\repos\CarCity\CarCity.Application\obj\Debug\net5.0\CarCity.Application.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\CarCity\CarCity.Application\obj\Debug\net5.0\CarCity.Application.dll
+C:\Users\ACER\source\repos\CarCity\CarCity.Application\obj\Debug\net5.0\ref\CarCity.Application.dll
+C:\Users\ACER\source\repos\CarCity\CarCity.Application\obj\Debug\net5.0\CarCity.Application.pdb
