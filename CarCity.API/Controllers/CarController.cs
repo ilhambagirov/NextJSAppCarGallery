@@ -20,9 +20,14 @@ namespace CarCity.API.Controllers
             return Ok(await Mediator.Send(new CarGetIdQuery { Id = id }));
         }
         [HttpPost("createCar")]
-        public async Task<ActionResult<int>> Create(CreateCarDto car)
+        public async Task<ActionResult<int>> Create([FromBody] CreateCarDto car)
         {
             return Ok(await Mediator.Send(new CreateCarCommand { Car = car }));
+        }
+        [HttpDelete("deleteCar/{id}")]
+        public async Task<ActionResult> Delete(int id)
+        {
+            return Ok(await Mediator.Send(new CarDeleteCommand { Id = id }));
         }
     }
 }

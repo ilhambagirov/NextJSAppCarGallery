@@ -1,11 +1,17 @@
 import Card from "../ui/Card";
 import classes from "./CarItem.module.css";
 import { useRouter } from "next/router";
+import agent from "../../api/agent";
 
 function MeetupItem(props) {
   const router = useRouter();
   const showDetailHandler = () => {
     router.push("/cars/" + props.id);
+  };
+
+  const deleteHandler = async () => {
+    await agent.Cars.delete(props.id);
+    router.push("/cars");
   };
   return (
     <li className={classes.item}>
@@ -20,6 +26,7 @@ function MeetupItem(props) {
         </div>
         <div className={classes.actions}>
           <button onClick={showDetailHandler}>Show Details</button>
+          <button onClick={deleteHandler}>Delete</button>
         </div>
       </Card>
     </li>
