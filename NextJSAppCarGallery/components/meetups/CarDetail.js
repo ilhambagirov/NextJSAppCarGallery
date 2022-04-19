@@ -1,6 +1,7 @@
 import Card from "../ui/Card";
 import classes from "./CarDetail.module.css";
 import { useRouter } from "next/router";
+import Link from "next/link";
 function CarDetail(props) {
   const router = useRouter();
   const showDetailHandler = () => {
@@ -14,6 +15,7 @@ function CarDetail(props) {
       <p>{props.description}</p>
       <div className={classes.actions}>
         <button onClick={showDetailHandler}>Back</button>
+        <Link href={`/cars/updateCar/${props.id}`}>Edit</Link>
       </div>
     </Card>
   );

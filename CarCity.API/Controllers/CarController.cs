@@ -24,6 +24,11 @@ namespace CarCity.API.Controllers
         {
             return Ok(await Mediator.Send(new CreateCarCommand { Car = car }));
         }
+        [HttpPut("updateCar/{id}")]
+        public async Task<ActionResult<int>> Edit(int id, [FromBody] CreateCarDto car)
+        {
+            return Ok(await Mediator.Send(new CarUpdateCommand { Id = id, Car = car }));
+        }
         [HttpDelete("deleteCar/{id}")]
         public async Task<ActionResult> Delete(int id)
         {

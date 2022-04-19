@@ -8,6 +8,7 @@ function CarDetailPage(props) {
       brand={props.carData.brand}
       model={props.carData.model}
       description={props.carData.description}
+      id = {props.carData.id}
     />
   );
 }

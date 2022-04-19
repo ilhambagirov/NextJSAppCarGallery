@@ -1,6 +1,7 @@
 import axios, { Axios, AxiosError, AxiosResponse } from "axios";
 import swal from "sweetalert";
 import { Car, CarFormValues } from "../models/car";
+import { CarType } from "../models/carType";
 
 const sleep = (delay: number) => {
   return new Promise((resolve) => {
@@ -59,10 +60,15 @@ const Cars = {
   getAll: () => request.get<Car[]>(`/Car/GetAllCars`),
   get: (id: number) => request.get<Car>(`/Car/GetCar/${id}`),
   create: (post: CarFormValues) => request.post<number>(`/Car/createCar`, post),
+  edit: (id: number, post: CarFormValues) => request.put<void>(`/Car/updateCar/${id}`, post),
   delete: (id: number) => request.delete<void>(`/Car/deleteCar/${id}`),
+};
+const CarTypes = {
+  getAll: () => request.get<CarType[]>(`CarType/GetAllCarTypes`),
 };
 
 const agent = {
   Cars,
+  CarTypes
 };
 export default agent;
