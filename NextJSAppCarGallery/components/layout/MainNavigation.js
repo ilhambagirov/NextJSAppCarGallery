@@ -1,5 +1,7 @@
 import classes from "./MainNavigation.module.css";
 import Link from "next/link";
+import ReactSearchBox from "react-search-box";
+import Search from "./Search";
 
 function MainNavigation() {
   return (
@@ -7,6 +9,9 @@ function MainNavigation() {
       <Link href="/">
         <a className={classes.logo}>IB Gallery</a>
       </Link>
+      <div className={classes.searchWrapper}>
+        <Search />
+      </div>
       <nav>
         <ul>
           <li>

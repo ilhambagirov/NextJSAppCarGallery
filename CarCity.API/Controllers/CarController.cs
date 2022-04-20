@@ -34,5 +34,10 @@ namespace CarCity.API.Controllers
         {
             return Ok(await Mediator.Send(new CarDeleteCommand { Id = id }));
         }
+        [HttpGet("searchCars/{word}")]
+        public async Task<ActionResult> Search(string word)
+        {
+            return Ok(await Mediator.Send(new CarSearchQuery { Word = word }));
+        }
     }
 }

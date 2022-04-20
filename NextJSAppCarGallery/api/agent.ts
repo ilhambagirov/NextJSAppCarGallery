@@ -60,8 +60,11 @@ const Cars = {
   getAll: () => request.get<Car[]>(`/Car/GetAllCars`),
   get: (id: number) => request.get<Car>(`/Car/GetCar/${id}`),
   create: (post: CarFormValues) => request.post<number>(`/Car/createCar`, post),
-  edit: (id: number, post: CarFormValues) => request.put<void>(`/Car/updateCar/${id}`, post),
+  edit: (id: number, post: CarFormValues) =>
+    request.put<void>(`/Car/updateCar/${id}`, post),
   delete: (id: number) => request.delete<void>(`/Car/deleteCar/${id}`),
+  search: (word: string) =>
+    request.get<Car[] | null>(`/Car/searchCars/${word}`),
 };
 const CarTypes = {
   getAll: () => request.get<CarType[]>(`CarType/GetAllCarTypes`),
@@ -69,6 +72,6 @@ const CarTypes = {
 
 const agent = {
   Cars,
-  CarTypes
+  CarTypes,
 };
 export default agent;

@@ -21,6 +21,50 @@
   display: flex;
   align-items: baseline;
 }
+.searchWrapper {
+  position: relative;
+}
+.searchedCarsWrapper {
+  position: absolute;
+  top: 60px;
+  background-color: aliceblue;
+  border-radius: 8px;
+  box-shadow: 0 1rem 3rem rgb(0 0 0 / 18%);
+  padding: 5px;
+}
+.searchedCarsWrapper ul {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  width: 300px;
+}
+.searchedCarsWrapper ul li {
+  margin: 0;
+  padding: 5px;
+  cursor: pointer;
+}
+.seacrhedCarLink {
+  display: flex;
+  align-items: center;
+}
+.imageURl {
+  width: 70px;
+  height: 60px;
+  margin-right: 20px;
+  object-fit: cover;
+}
+.carname {
+  font-size: 20px;
+  color: black;
+}
+
+.search {
+  border: none;
+  padding: 7px;
+  border-radius: 7px;
+  outline: none;
+  width: 300px;
+}
 
 .header li {
   margin-left: 3rem;
