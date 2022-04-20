@@ -63,6 +63,8 @@ namespace CarCity.API
             app.UseHttpsRedirection();
 
             app.UseRouting();
+            app.UseStaticFiles();
+            app.UseDefaultFiles();
             app.UseCors("CorsPolicy");
 
             app.UseAuthorization();
@@ -70,6 +72,7 @@ namespace CarCity.API
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+                //endpoints.MapFallbackToController("Index", "Fallback");
             });
         }
     }

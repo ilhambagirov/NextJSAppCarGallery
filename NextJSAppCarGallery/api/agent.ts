@@ -9,7 +9,7 @@ const sleep = (delay: number) => {
   });
 };
 
-axios.defaults.baseURL = "/api";
+axios.defaults.baseURL = "http://localhost:6680/api";
 
 axios.interceptors.response.use(
   async (response) => {
