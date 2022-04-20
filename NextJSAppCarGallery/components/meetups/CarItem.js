@@ -14,8 +14,8 @@ function MeetupItem(props) {
     router.push("/cars");
   };
   return (
-    <li className={classes.item}>
-      <Card>
+    <li className={`${classes.item} col-xl-3 col-lg-4 col-md-6 `}>
+      <Card style={classes.Card}>
         <div className={classes.image}>
           <img src={props.image} alt={props.brand} />
         </div>
@@ -25,7 +25,7 @@ function MeetupItem(props) {
           <p>{props.year}</p>
         </div>
         <div className={classes.actions}>
-          <button onClick={showDetailHandler}>Show Details</button>
+          <button className="me-2" onClick={showDetailHandler}>Show Details</button>
           <button onClick={deleteHandler}>Delete</button>
         </div>
       </Card>

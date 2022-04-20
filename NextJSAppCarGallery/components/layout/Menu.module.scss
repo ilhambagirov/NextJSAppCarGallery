@@ -1,0 +1,39 @@
+.menu-wrapper {
+  margin-top: 10px;
+  transform: translateY(-500px);
+  width: 100%;
+  background-color: #77002e;
+  display: none;
+  transition: transform ease 1.5s;
+  border-radius: 8px;
+  &.active {
+    transform: translateY(-70px);
+  }
+
+  ul {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px,
+      rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    border-radius: 0 0 8px 8px;
+    li {
+      padding: 10px;
+      padding-left: 20px;
+      font-size: 1.5rem;
+      font-weight: 500;
+      list-style-type: none;
+      color: white;
+      &:last-child {
+        border-radius: 0 0 8px 8px;
+      }
+      a{
+        text-decoration: none;
+        color: white;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .menu-wrapper {
+    display: block;
+  }
+}
