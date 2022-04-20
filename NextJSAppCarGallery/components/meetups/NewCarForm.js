@@ -37,92 +37,91 @@ function NewCarForm(props) {
   }
 
   return (
-    <Card style={classes.cardAdd}>
-      <form className={classes.form} onSubmit={submitHandler}>
-        <div className={classes.control}>
-          <label htmlFor="title">Brand</label>
-          <input
-            type="text"
-            required
-            id="title"
-            defaultValue={props.carData ? props.carData.brand : ""}
-            ref={brandInputRef}
-          />
-        </div>
-        <div className={classes.control}>
-          <label htmlFor="model">Model</label>
-          <input
-            type="text"
-            required
-            id="model"
-            defaultValue={props.carData ? props.carData.model : ""}
-            ref={modelInputRef}
-          />
-        </div>
-        <div className={classes.control}>
-          <label htmlFor="year">Year</label>
-          <input
-            type="text"
-            required
-            id="year"
-            defaultValue={props.carData ? props.carData.year : ""}
-            ref={yearInputRef}
-          />
-        </div>
-        <div className={classes.control}>
-          <label htmlFor="km">KM</label>
-          <input
-            id="km"
-            type="text"
-            defaultValue={props.carData ? props.carData.km : ""}
-            ref={KMInputRef}
-          />
-        </div>
-        <div className={classes.control}>
-          <label htmlFor="color">Color</label>
-          <input
-            required
-            type="text"
-            id="color"
-            defaultValue={props.carData ? props.carData.color : ""}
-            ref={colorInputRef}
-          />
-        </div>
-        <div className={classes.control}>
-          <label htmlFor="image">Image</label>
-          <input
-            type="text"
-            required
-            id="image"
-            defaultValue={props.carData ? props.carData.imageUrl : ""}
-            ref={imageInputRef}
-          />
-        </div>
-        <div className={classes.control}>
-          <label htmlFor="carType">CarTypeId</label>
-          <select ref={carTypeInputRef} name="cars" id="cars">
-            {props.carTypeData?.map((x) => (
-              <option
-                selected={x.id === props.carData?.carType.id ? "selected" : ""}
-                value={x.type}
-              >
-                {x.type}
-              </option>
-            ))}
-          </select>
-          {/* <input
-            type="text"
-            required
-            id="carType"
-            defaultValue={props.carData ? props.carData.carType.type : ""}
-            ref={carTypeInputRef}
-          /> */}
-        </div>
-        <div className={classes.actions}>
-          <button>Add Meetup</button>
-        </div>
-      </form>
-    </Card>
+    <div className="container mt-2">
+      <div className={`row justify-content-center ${classes.formRow} `}>
+        <Card style={classes.cardAdd}>
+          <form className={classes.form} onSubmit={submitHandler}>
+            <div className={classes.control}>
+              <label htmlFor="title">Brand</label>
+              <input
+                type="text"
+                required
+                id="title"
+                defaultValue={props.carData ? props.carData.brand : ""}
+                ref={brandInputRef}
+              />
+            </div>
+            <div className={classes.control}>
+              <label htmlFor="model">Model</label>
+              <input
+                type="text"
+                required
+                id="model"
+                defaultValue={props.carData ? props.carData.model : ""}
+                ref={modelInputRef}
+              />
+            </div>
+            <div className={classes.control}>
+              <label htmlFor="year">Year</label>
+              <input
+                type="text"
+                required
+                id="year"
+                defaultValue={props.carData ? props.carData.year : ""}
+                ref={yearInputRef}
+              />
+            </div>
+            <div className={classes.control}>
+              <label htmlFor="km">KM</label>
+              <input
+                id="km"
+                type="text"
+                defaultValue={props.carData ? props.carData.km : ""}
+                ref={KMInputRef}
+              />
+            </div>
+            <div className={classes.control}>
+              <label htmlFor="color">Color</label>
+              <input
+                required
+                type="text"
+                id="color"
+                defaultValue={props.carData ? props.carData.color : ""}
+                ref={colorInputRef}
+              />
+            </div>
+            <div className={classes.control}>
+              <label htmlFor="image">Image</label>
+              <input
+                type="text"
+                required
+                id="image"
+                defaultValue={props.carData ? props.carData.imageUrl : ""}
+                ref={imageInputRef}
+              />
+            </div>
+            <div className={classes.control}>
+              <label htmlFor="carType">CarTypeId</label>
+              <select ref={carTypeInputRef} name="cars" id="cars">
+                {props.carTypeData?.map((x) => (
+                  <option
+                    selected={
+                      x.id === props.carData?.carType.id ? "selected" : ""
+                    }
+                    value={x.type}
+                  >
+                    {x.type}
+                  </option>
+                ))}
+              </select>
+            </div>
+            <div className={classes.actions}>
+              <button>Add Meetup</button>
+            </div>
+          </form>
+        </Card>
+      </div>
+    </div>
   );
 }
 

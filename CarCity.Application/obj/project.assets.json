@@ -6003,19 +6003,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ACER\\.nuget\\packages\\": {}
+    "C:\\Users\\ilham.baghirov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\CarCity\\CarCity.Application\\CarCity.Application.csproj",
+      "projectUniqueName": "C:\\Users\\ilham.baghirov\\Desktop\\nextCarGallery\\NextJSAppCarGallery\\CarCity.Application\\CarCity.Application.csproj",
       "projectName": "CarCity.Application",
-      "projectPath": "C:\\Users\\ACER\\source\\repos\\CarCity\\CarCity.Application\\CarCity.Application.csproj",
-      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\source\\repos\\CarCity\\CarCity.Application\\obj\\",
+      "projectPath": "C:\\Users\\ilham.baghirov\\Desktop\\nextCarGallery\\NextJSAppCarGallery\\CarCity.Application\\CarCity.Application.csproj",
+      "packagesPath": "C:\\Users\\ilham.baghirov\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ilham.baghirov\\Desktop\\nextCarGallery\\NextJSAppCarGallery\\CarCity.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ilham.baghirov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6029,8 +6029,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\ACER\\source\\repos\\CarCity\\CarCity.Persistence\\CarCity.Persistence.csproj": {
-              "projectPath": "C:\\Users\\ACER\\source\\repos\\CarCity\\CarCity.Persistence\\CarCity.Persistence.csproj"
+            "C:\\Users\\ilham.baghirov\\Desktop\\nextCarGallery\\NextJSAppCarGallery\\CarCity.Persistence\\CarCity.Persistence.csproj": {
+              "projectPath": "C:\\Users\\ilham.baghirov\\Desktop\\nextCarGallery\\NextJSAppCarGallery\\CarCity.Persistence\\CarCity.Persistence.csproj"
             }
           }
         }
@@ -6069,7 +6069,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }

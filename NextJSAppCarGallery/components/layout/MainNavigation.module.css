@@ -105,3 +105,25 @@
     display: block;
   }
 }
+@media screen and (max-width: 560px) {
+  .search {
+    width: 250px;
+  }
+  .searchedCarsWrapper{
+    width: 250px;
+  }
+  .searchedCarsWrapper ul {
+    width: 250px;
+  }
+}
+@media screen and (max-width: 400px) {
+  .search {
+    width: 230px;
+  }
+  .searchedCarsWrapper{
+    width: 230px;
+  }
+  .searchedCarsWrapper ul {
+    width: 230px;
+  }
+}

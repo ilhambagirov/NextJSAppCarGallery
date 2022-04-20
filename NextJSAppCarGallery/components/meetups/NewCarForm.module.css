@@ -1,10 +1,10 @@
 .form {
   padding: 1rem;
- margin-top: 20px;
+  margin-top: 20px;
 }
 
-.cardAdd{
-  margin: auto 400px;
+.cardAdd {
+  max-width: 800px;
 }
 
 .control {
@@ -47,4 +47,11 @@
 .actions button:active {
   background-color: #a50e48;
   border-color: #a50e48;
+}
+
+@media screen and (max-width: 576px) {
+  .formRow{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
 }

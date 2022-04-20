@@ -10,3 +10,15 @@ C:\Users\ACER\source\repos\CarCity\CarCity.Domain\obj\Debug\net5.0\CarCity.Domai
 C:\Users\ACER\source\repos\CarCity\CarCity.Domain\obj\Debug\net5.0\CarCity.Domain.dll
 C:\Users\ACER\source\repos\CarCity\CarCity.Domain\obj\Debug\net5.0\ref\CarCity.Domain.dll
 C:\Users\ACER\source\repos\CarCity\CarCity.Domain\obj\Debug\net5.0\CarCity.Domain.pdb
+C:\Users\ilham.baghirov\Desktop\nextCarGallery\NextJSAppCarGallery\CarCity.Domain\bin\Debug\net5.0\CarCity.Domain.deps.json
+C:\Users\ilham.baghirov\Desktop\nextCarGallery\NextJSAppCarGallery\CarCity.Domain\bin\Debug\net5.0\CarCity.Domain.dll
+C:\Users\ilham.baghirov\Desktop\nextCarGallery\NextJSAppCarGallery\CarCity.Domain\bin\Debug\net5.0\ref\CarCity.Domain.dll
+C:\Users\ilham.baghirov\Desktop\nextCarGallery\NextJSAppCarGallery\CarCity.Domain\bin\Debug\net5.0\CarCity.Domain.pdb
+C:\Users\ilham.baghirov\Desktop\nextCarGallery\NextJSAppCarGallery\CarCity.Domain\obj\Debug\net5.0\CarCity.Domain.csproj.AssemblyReference.cache
+C:\Users\ilham.baghirov\Desktop\nextCarGallery\NextJSAppCarGallery\CarCity.Domain\obj\Debug\net5.0\CarCity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilham.baghirov\Desktop\nextCarGallery\NextJSAppCarGallery\CarCity.Domain\obj\Debug\net5.0\CarCity.Domain.AssemblyInfoInputs.cache
+C:\Users\ilham.baghirov\Desktop\nextCarGallery\NextJSAppCarGallery\CarCity.Domain\obj\Debug\net5.0\CarCity.Domain.AssemblyInfo.cs
+C:\Users\ilham.baghirov\Desktop\nextCarGallery\NextJSAppCarGallery\CarCity.Domain\obj\Debug\net5.0\CarCity.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ilham.baghirov\Desktop\nextCarGallery\NextJSAppCarGallery\CarCity.Domain\obj\Debug\net5.0\CarCity.Domain.dll
+C:\Users\ilham.baghirov\Desktop\nextCarGallery\NextJSAppCarGallery\CarCity.Domain\obj\Debug\net5.0\ref\CarCity.Domain.dll
+C:\Users\ilham.baghirov\Desktop\nextCarGallery\NextJSAppCarGallery\CarCity.Domain\obj\Debug\net5.0\CarCity.Domain.pdb
