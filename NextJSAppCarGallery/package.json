@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "postbuild": "move .next ../CarCity.API/wwwroot",
     "start": "next start"
   },
   "dependencies": {

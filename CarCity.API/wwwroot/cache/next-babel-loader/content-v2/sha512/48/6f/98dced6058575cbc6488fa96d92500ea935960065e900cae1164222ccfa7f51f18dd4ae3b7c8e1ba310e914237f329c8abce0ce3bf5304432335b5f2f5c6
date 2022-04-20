@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { useContext } from \"react\";\nimport { createContext } from \"react\";\nimport CarStore from \"./carStore\";\nexport var dark = {\n  carStore: new CarStore()\n};\nexport var Context = /*#__PURE__*/createContext(dark);\nexport function useDarkMode() {\n  return useContext(Context);\n}","map":null,"metadata":{},"sourceType":"module"}
