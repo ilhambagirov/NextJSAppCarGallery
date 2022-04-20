@@ -1,1 +1,0 @@
-{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nimport NewCarForm from \"../../../components/meetups/NewCarForm\";\n\nfunction CarUpdate(props) {\n  return /*#__PURE__*/_jsx(NewCarForm, {\n    car: props.carData\n  });\n}\n\nexport var __N_SSP = true;\nexport default CarUpdate;","map":null,"metadata":{},"sourceType":"module"}
