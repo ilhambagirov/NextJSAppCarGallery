@@ -225,3 +225,5 @@ C:\Users\ilham.baghirov\Desktop\CarGalleryNextJs\NextJSAppCarGallery\CarCity.API
 C:\Users\ilham.baghirov\Desktop\CarGalleryNextJs\NextJSAppCarGallery\CarCity.API\obj\Debug\net5.0\ref\CarCity.API.dll
 C:\Users\ilham.baghirov\Desktop\CarGalleryNextJs\NextJSAppCarGallery\CarCity.API\obj\Debug\net5.0\CarCity.API.pdb
 C:\Users\ilham.baghirov\Desktop\CarGalleryNextJs\NextJSAppCarGallery\CarCity.API\obj\Debug\net5.0\CarCity.API.genruntimeconfig.cache
+C:\Users\ilham.baghirov\Desktop\CarGalleryNextJs\NextJSAppCarGallery\CarCity.API\bin\Debug\net5.0\Npgsql.dll
+C:\Users\ilham.baghirov\Desktop\CarGalleryNextJs\NextJSAppCarGallery\CarCity.API\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

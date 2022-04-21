@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IUya8hTS3UhB03rMZiQX0dFAuGesBzE1hsjyop815vFarIvEnbwSi43f9dTQCU9Mz3XOzI7dHPPhzTY0oOHpRQ==",
+  "dgSpecHash": "KWE/IVOs6w0l8+c0Gf9Pzyx4EowylKGXKJbI0TBA5oIm2ausTA+ldH7CJc8eohF51dftT7Um5Qbn34UUwdXbIA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ilham.baghirov\\Desktop\\CarGalleryNextJs\\NextJSAppCarGallery\\CarCity.Persistence\\CarCity.Persistence.csproj",
   "expectedPackageFiles": [
@@ -37,6 +37,8 @@
     "C:\\Users\\ilham.baghirov\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\ilham.baghirov\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\ilham.baghirov\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
+    "C:\\Users\\ilham.baghirov\\.nuget\\packages\\npgsql\\5.0.10\\npgsql.5.0.10.nupkg.sha512",
+    "C:\\Users\\ilham.baghirov\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\5.0.10\\npgsql.entityframeworkcore.postgresql.5.0.10.nupkg.sha512",
     "C:\\Users\\ilham.baghirov\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\ilham.baghirov\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\ilham.baghirov\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
@@ -77,6 +79,7 @@
     "C:\\Users\\ilham.baghirov\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
     "C:\\Users\\ilham.baghirov\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\ilham.baghirov\\.nuget\\packages\\system.runtime.caching\\4.7.0\\system.runtime.caching.4.7.0.nupkg.sha512",
+    "C:\\Users\\ilham.baghirov\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
     "C:\\Users\\ilham.baghirov\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\ilham.baghirov\\.nuget\\packages\\system.runtime.handles\\4.3.0\\system.runtime.handles.4.3.0.nupkg.sha512",
     "C:\\Users\\ilham.baghirov\\.nuget\\packages\\system.runtime.interopservices\\4.3.0\\system.runtime.interopservices.4.3.0.nupkg.sha512",

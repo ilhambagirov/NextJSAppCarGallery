@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EJeXY4VbH4P9qoFjgFKbuTGFOrzDoxmqeRD+bJKlnZedmNVUcO7wjEkeR07UaeySCE1wyffoxzfmlzhtNDEP2g==",
+  "dgSpecHash": "z9zeG1FDw0Sv+z76ZYSIE4bWBx6GsEXuienYOfnF93C7n3nDVv4iCsC4vaQgRvBvBMJFmZZy7HtXs8dWC6EFAw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ilham.baghirov\\Desktop\\CarGalleryNextJs\\NextJSAppCarGallery\\CarCity.Application\\CarCity.Application.csproj",
   "expectedPackageFiles": [
@@ -39,6 +39,8 @@
     "C:\\Users\\ilham.baghirov\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\ilham.baghirov\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\ilham.baghirov\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
+    "C:\\Users\\ilham.baghirov\\.nuget\\packages\\npgsql\\5.0.10\\npgsql.5.0.10.nupkg.sha512",
+    "C:\\Users\\ilham.baghirov\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\5.0.10\\npgsql.entityframeworkcore.postgresql.5.0.10.nupkg.sha512",
     "C:\\Users\\ilham.baghirov\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\ilham.baghirov\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\ilham.baghirov\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",

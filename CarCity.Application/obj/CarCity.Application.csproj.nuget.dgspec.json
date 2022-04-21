@@ -183,6 +183,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.15, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.10, )"
             }
           },
           "imports": [

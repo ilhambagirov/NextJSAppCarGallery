@@ -29,7 +29,7 @@ namespace CarCity.API
             services.AddControllers();
             services.AddDbContext<AppDbContext>(cfg =>
             {
-                cfg.UseSqlServer(Configuration.GetConnectionString("cString"));
+                cfg.UseNpgsql(Configuration.GetConnectionString("cString"));
             });
             var asmbls = AppDomain.CurrentDomain.GetAssemblies().Where(a => a.FullName.StartsWith("CarCity")).ToArray();
             services.AddMediatR(asmbls);
