@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6p7LQ6wbwot3dPr3J7WBjDjPB4+x4j4W3MtJVrswsL6mJVGdc2Eu09JvdQgUpSnRBaihYMiu0OUiWd1/scbCeQ==",
+  "dgSpecHash": "C9OPcInjeOP3q7xnpkIw9ouW+Q+6yA09XOb43snWsKLFTXK0pSh7UYfdZjGKtzI4qBGJ6sPZ63XAVKb+LWCVYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ilham.baghirov\\Desktop\\nextCarGallery\\NextJSAppCarGallery\\CarCity.Domain\\CarCity.Domain.csproj",
+  "projectFilePath": "C:\\Users\\ilham.baghirov\\Desktop\\CarGalleryNextJs\\NextJSAppCarGallery\\CarCity.Domain\\CarCity.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

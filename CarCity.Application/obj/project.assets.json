@@ -6008,11 +6008,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ilham.baghirov\\Desktop\\nextCarGallery\\NextJSAppCarGallery\\CarCity.Application\\CarCity.Application.csproj",
+      "projectUniqueName": "C:\\Users\\ilham.baghirov\\Desktop\\CarGalleryNextJs\\NextJSAppCarGallery\\CarCity.Application\\CarCity.Application.csproj",
       "projectName": "CarCity.Application",
-      "projectPath": "C:\\Users\\ilham.baghirov\\Desktop\\nextCarGallery\\NextJSAppCarGallery\\CarCity.Application\\CarCity.Application.csproj",
+      "projectPath": "C:\\Users\\ilham.baghirov\\Desktop\\CarGalleryNextJs\\NextJSAppCarGallery\\CarCity.Application\\CarCity.Application.csproj",
       "packagesPath": "C:\\Users\\ilham.baghirov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ilham.baghirov\\Desktop\\nextCarGallery\\NextJSAppCarGallery\\CarCity.Application\\obj\\",
+      "outputPath": "C:\\Users\\ilham.baghirov\\Desktop\\CarGalleryNextJs\\NextJSAppCarGallery\\CarCity.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ilham.baghirov\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6029,8 +6029,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\ilham.baghirov\\Desktop\\nextCarGallery\\NextJSAppCarGallery\\CarCity.Persistence\\CarCity.Persistence.csproj": {
-              "projectPath": "C:\\Users\\ilham.baghirov\\Desktop\\nextCarGallery\\NextJSAppCarGallery\\CarCity.Persistence\\CarCity.Persistence.csproj"
+            "C:\\Users\\ilham.baghirov\\Desktop\\CarGalleryNextJs\\NextJSAppCarGallery\\CarCity.Persistence\\CarCity.Persistence.csproj": {
+              "projectPath": "C:\\Users\\ilham.baghirov\\Desktop\\CarGalleryNextJs\\NextJSAppCarGallery\\CarCity.Persistence\\CarCity.Persistence.csproj"
             }
           }
         }

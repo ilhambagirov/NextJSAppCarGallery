@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ilham.baghirov\\Desktop\\nextCarGallery\\NextJSAppCarGallery\\CarCity.Domain\\CarCity.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\ilham.baghirov\\Desktop\\CarGalleryNextJs\\NextJSAppCarGallery\\CarCity.Domain\\CarCity.Domain.csproj",
       "projectName": "CarCity.Domain",
-      "projectPath": "C:\\Users\\ilham.baghirov\\Desktop\\nextCarGallery\\NextJSAppCarGallery\\CarCity.Domain\\CarCity.Domain.csproj",
+      "projectPath": "C:\\Users\\ilham.baghirov\\Desktop\\CarGalleryNextJs\\NextJSAppCarGallery\\CarCity.Domain\\CarCity.Domain.csproj",
       "packagesPath": "C:\\Users\\ilham.baghirov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ilham.baghirov\\Desktop\\nextCarGallery\\NextJSAppCarGallery\\CarCity.Domain\\obj\\",
+      "outputPath": "C:\\Users\\ilham.baghirov\\Desktop\\CarGalleryNextJs\\NextJSAppCarGallery\\CarCity.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ilham.baghirov\\AppData\\Roaming\\NuGet\\NuGet.Config",

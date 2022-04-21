@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sNm0AIemrxFWJoMhL+i1Y5dgu3p04Sn/YQ26UxDTW2MQO6YXnsrkifXmml0Ur9sEybfLcBjCE97THj8+0EVqfw==",
+  "dgSpecHash": "IUya8hTS3UhB03rMZiQX0dFAuGesBzE1hsjyop815vFarIvEnbwSi43f9dTQCU9Mz3XOzI7dHPPhzTY0oOHpRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ilham.baghirov\\Desktop\\nextCarGallery\\NextJSAppCarGallery\\CarCity.Persistence\\CarCity.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\ilham.baghirov\\Desktop\\CarGalleryNextJs\\NextJSAppCarGallery\\CarCity.Persistence\\CarCity.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ilham.baghirov\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ilham.baghirov\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

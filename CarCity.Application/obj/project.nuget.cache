@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fa23WarCHvv57AX7dSFTtq/eDEeETwDKUEDtyX/YE4drp4F/BlcfJpM4hNfiw9d65QIA2LSnQnyf9R0eF0Iiew==",
+  "dgSpecHash": "EJeXY4VbH4P9qoFjgFKbuTGFOrzDoxmqeRD+bJKlnZedmNVUcO7wjEkeR07UaeySCE1wyffoxzfmlzhtNDEP2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ilham.baghirov\\Desktop\\nextCarGallery\\NextJSAppCarGallery\\CarCity.Application\\CarCity.Application.csproj",
+  "projectFilePath": "C:\\Users\\ilham.baghirov\\Desktop\\CarGalleryNextJs\\NextJSAppCarGallery\\CarCity.Application\\CarCity.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ilham.baghirov\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\ilham.baghirov\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
